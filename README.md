@@ -7,4 +7,4 @@ Přirodopis - 2
 Fyzika - 1  
 Hudební Výchova - 3  
 
-Když už jsi sem zavítal, bylo by dobré vědět, že tady, ŽÁDNÝ teplý javascript nenajdeš. Jen Vue.js a možná discord.js. A když se nad tím zamyslím občas i něco jiného.
+Když už jsi sem zavítal, bylo by dobré vědět, že tady ŽÁDNÝ teplý javascript nenajdeš. Jen Vue.js a možná discord.js. A když se nad tím zamyslím občas i něco jiného.
