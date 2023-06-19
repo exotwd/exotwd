@@ -1,6 +1,6 @@
 ### Vítej! 👋
 
-Myslím, že nej(Ne)důležitější věcí jsou ZNÁMKY, a proto zde vkládám můj (Ne)reálný výpis těch nej(Ne)důležitějších.
+Myslím, že nej(Ne)důležitější věcí jsou ZNÁMKY, a proto zde vkládám můj (Ne)reálný výpis těch nej(Ne)důležitějších.  
 Český jazik a literatura - 2  
 Matematika - 1  
 Přirodopis - 2  
